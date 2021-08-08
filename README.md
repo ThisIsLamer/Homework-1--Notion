@@ -6,4 +6,4 @@ pip install requests bs4
 ```
 
 ### Start
-`python Homework.py`
+```python Homework.py```
